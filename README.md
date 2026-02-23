@@ -1,4 +1,4 @@
-# sharifsetup-OCR
+# Sharif Setup OCR
 
 Production OCR API for Persian, Hebrew, Arabic, and English using FastAPI + local vLLM inference.
 Swagger/OpenAPI title and runtime model display name are fixed to `sharifsetup-OCR`.
